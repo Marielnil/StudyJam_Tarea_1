@@ -25,7 +25,7 @@
         android:textColor="@color/blanco"
         />
     <TextView
-        android:layout_marginTop="2dp"
+        android:layout_marginTop="0dp"
         android:layout_marginLeft="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -38,6 +38,7 @@
         android:layout_height="wrap_content"
         >
         <LinearLayout
+            android:layout_marginTop="10dp"
             android:orientation="horizontal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -154,7 +155,41 @@
                 android:layout_height="230dp"
                 android:background="@drawable/ima015"
                 />
-
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="120dp"
+                android:layout_height="230dp"
+                android:background="@drawable/ima016"
+                />
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="120dp"
+                android:layout_height="230dp"
+                android:background="@drawable/ima017"
+                />
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="120dp"
+                android:layout_height="230dp"
+                android:background="@drawable/ima018"
+                />
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="120dp"
+                android:layout_height="230dp"
+                android:background="@drawable/ima019"
+                />
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="120dp"
+                android:layout_height="230dp"
+                android:background="@drawable/ima020"
+                />
         </LinearLayout>
     </HorizontalScrollView>
     <TextView
@@ -168,7 +203,7 @@
         android:textColor="@color/blanco"
         />
                 <TextView
-                 android:layout_marginTop="2dp"
+                 android:layout_marginTop="0dp"
                  android:layout_marginLeft="10dp"
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
@@ -181,6 +216,254 @@
                android:layout_height="wrap_content"
                >
                <LinearLayout
+                   android:layout_marginTop="5dp"
+                   android:orientation="horizontal"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content">
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima101"/>
+
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima07"
+                       />
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima02"
+                       />
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima01"
+                       />
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima08"
+                       />
+
+                  <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima013"
+                       />
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima02"
+                       />
+
+               </LinearLayout>
+           </HorizontalScrollView>
+           <TextView
+               android:layout_marginTop="5dp"
+
+               android:layout_marginLeft="10dp"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Recomendados para ti"
+               android:textSize="20dp"
+               android:textStyle="bold"
+               android:textColor="@color/blanco"
+               />
+           <HorizontalScrollView
+               android:layout_marginTop="10dp"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               >
+               <LinearLayout
+                   android:layout_marginTop="10dp"
+                   android:orientation="horizontal"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content">
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima028"/>
+
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima034"
+                       />
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima035"
+                       />
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima033"
+                       />
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima05"
+                       />
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima030"
+                       />
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima02"
+                       />
+               </LinearLayout>
+           </HorizontalScrollView>
+           <TextView
+               android:layout_marginTop="5dp"
+               android:layout_marginLeft="10dp"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Cine Latinoamericano"
+               android:textSize="20dp"
+               android:textStyle="bold"
+               android:textColor="@color/blanco"
+               />
+           <TextView
+               android:layout_marginTop="5dp"
+               android:layout_marginLeft="10dp"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Aútentico y humano"
+               android:textSize="20dp"
+               android:textColor="@color/blanco"
+               />
+           <HorizontalScrollView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               >
+               <LinearLayout
+                   android:layout_marginTop="10dp"
+                   android:orientation="horizontal"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content">
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima028"/>
+
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima029"
+                       />
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima027"
+                       />
+
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima04"
+                       />
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima05"
+                       />
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima07"
+                       />
+               </LinearLayout>
+           </HorizontalScrollView>
+           <TextView
+               android:layout_marginTop="5dp"
+               android:layout_marginLeft="10dp"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Renta de Peliculas"
+               android:textSize="20dp"
+               android:textStyle="bold"
+               android:textColor="@color/blanco"
+               />
+           <TextView
+               android:layout_marginTop="5dp"
+               android:layout_marginLeft="10dp"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="La mejor del cine"
+               android:textSize="20dp"
+               android:textColor="@color/blanco"
+               />
+           <HorizontalScrollView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               >
+               <LinearLayout
                    android:orientation="horizontal"
                    android:layout_width="match_parent"
                    android:layout_height="wrap_content">
@@ -207,24 +490,24 @@
                        android:layout_marginRight="5dp"
                        android:layout_width="120dp"
                        android:layout_height="230dp"
-                       android:background="@drawable/ima04"
-                       />
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
                        android:background="@drawable/ima03"
                        />
 
+
                    <ImageView
                        android:layout_marginLeft="10dp"
                        android:layout_marginRight="5dp"
                        android:layout_width="120dp"
                        android:layout_height="230dp"
-                       android:background="@drawable/ima08"
+                       android:background="@drawable/ima04"
+                       />
+
+                   <ImageView
+                       android:layout_marginLeft="10dp"
+                       android:layout_marginRight="5dp"
+                       android:layout_width="120dp"
+                       android:layout_height="230dp"
+                       android:background="@drawable/ima05"
                        />
 
                    <ImageView
@@ -237,11 +520,24 @@
                </LinearLayout>
            </HorizontalScrollView>
            <TextView
-               android:layout_width="match_parent"
+               android:layout_marginTop="5dp"
+               android:layout_marginLeft="10dp"
+               android:layout_width="wrap_content"
                android:layout_height="wrap_content"
-               android:text="Recomendado para ti "
+               android:text="Peliculas divertidas"
+               android:textSize="20dp"
+               android:textStyle="bold"
                android:textColor="@color/blanco"
-               android:textStyle="bold"/>
+               />
+           <TextView
+               android:layout_marginTop="5dp"
+               android:layout_marginLeft="10dp"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Para toda la familia"
+               android:textSize="20dp"
+               android:textColor="@color/blanco"
+               />
            <HorizontalScrollView
                android:layout_width="match_parent"
                android:layout_height="wrap_content"
@@ -660,179 +956,6 @@
                        android:layout_height="230dp"
                        android:background="@drawable/ima06"
                        />
-               </LinearLayout>
-           </HorizontalScrollView>
-           <HorizontalScrollView
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               >
-               <LinearLayout
-                   android:orientation="horizontal"
-                   android:layout_width="match_parent"
-                   android:layout_height="wrap_content">
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima101"/>
-
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima01"
-                       />
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima03"
-                       />
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima04"
-                       />
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima05"
-                       />
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima06"
-                       />
-               </LinearLayout>
-           </HorizontalScrollView>
-           <HorizontalScrollView
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               >
-               <LinearLayout
-                   android:orientation="horizontal"
-                   android:layout_width="match_parent"
-                   android:layout_height="wrap_content">
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima101"/>
-
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima01"
-                       />
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima03"
-                       />
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima04"
-                       />
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima05"
-                       />
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima06"
-                       />
-               </LinearLayout>
-           </HorizontalScrollView>
-           <HorizontalScrollView
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               >
-               <LinearLayout
-                   android:orientation="horizontal"
-                   android:layout_width="match_parent"
-                   android:layout_height="wrap_content">
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima101"/>
-
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima01"
-                       />
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima03"
-                       />
-
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima04"
-                       />
-
-                   <ImageView
-                       android:layout_marginLeft="10dp"
-                       android:layout_marginRight="5dp"
-                       android:layout_width="120dp"
-                       android:layout_height="230dp"
-                       android:background="@drawable/ima05"
-                       />
-
                    <ImageView
                        android:layout_marginLeft="10dp"
                        android:layout_marginRight="5dp"
