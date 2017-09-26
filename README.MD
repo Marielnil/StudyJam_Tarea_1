@@ -1,6 +1,6 @@
 # Tarea 1 - Study Jam
 ========================
- Dentro de este repsoitorio se encuentra la tarea 1 del Study Jam en el cual se hizo la copia
+ Dentro de este repositorio se encuentra la tarea 1 del Study Jam en el cual se hizo la copia
   de interfaz grafica de una aplicacion movil.
 ------------
   * Android Studio 2.3.3
@@ -25,8 +25,8 @@ Captura
 
 <div align="center">
     <center>
-       <img src="/img/captura.png" width="300">
+       <img src="img/captura.png" width="300">
     </center>
 </div>
 <br><br>
-<a href="http://www.miramicodigo.com" target="_blank">@Gusn8</a>
+<a href="http://www.miramicodigo.com" target="_blank">@Marielnil</a>
