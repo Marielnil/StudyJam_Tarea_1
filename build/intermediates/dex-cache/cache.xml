@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\appAndroid\Google_Play_Peliculas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4186f04ba68be3a6575bd2ed4fc5ed09cf2dfc61">
+        <dex dex="D:\appAndroid\Google_Play_Peliculas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_19daaaf7183b3e4ef3edb5bfc19925c829eb01fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\appAndroid\Google_Play_Peliculas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\appAndroid\Google_Play_Peliculas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1b17138a628bfd81fcbe8add93608db95aa9be73\classes.dex" />
+    </item>
+
+</items>
